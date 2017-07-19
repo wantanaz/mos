@@ -1,1 +1,1 @@
-alert("Hello mos");
+alert("Yeah!");
